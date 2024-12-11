@@ -1,5 +1,5 @@
-import 'package:diplomski_bruno/pages/home.dart';
-import 'package:diplomski_bruno/pages/login.dart';
+import 'package:beautystudioapp/pages/home.dart';
+import 'package:beautystudioapp/pages/login.dart';
 import 'package:flutter/material.dart';
 
 class Onboarding extends StatefulWidget {
