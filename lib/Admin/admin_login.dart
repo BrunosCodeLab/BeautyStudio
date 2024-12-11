@@ -1,4 +1,4 @@
-import 'package:diplomski_bruno/Admin/booking_admin.dart';
+import 'package:beautystudioapp/Admin/booking_admin.dart';
 import 'package:cloud_firestore/cloud_firestore.dart';
 import 'package:flutter/material.dart';
 
