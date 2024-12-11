@@ -1,5 +1,5 @@
-import 'package:diplomski_bruno/pages/booking.dart';
-import 'package:diplomski_bruno/services/shared_pref.dart';
+import 'package:beautystudioapp/pages/booking.dart';
+import 'package:beautystudioapp/services/shared_pref.dart';
 import 'package:flutter/material.dart';
 
 class Home extends StatefulWidget {
