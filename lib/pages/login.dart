@@ -1,7 +1,7 @@
-import 'package:diplomski_bruno/Admin/booking_admin.dart';
-import 'package:diplomski_bruno/pages/forgot_password.dart';
-import 'package:diplomski_bruno/pages/home.dart';
-import 'package:diplomski_bruno/pages/signup.dart';
+import 'package:beautystudioapp/Admin/booking_admin.dart';
+import 'package:beautystudioapp/pages/forgot_password.dart';
+import 'package:beautystudioapp/pages/home.dart';
+import 'package:beautystudioapp/pages/signup.dart';
 import 'package:firebase_auth/firebase_auth.dart';
 import 'package:flutter/material.dart';
 
