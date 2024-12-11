@@ -1,7 +1,7 @@
-import 'package:diplomski_bruno/pages/home.dart';
-import 'package:diplomski_bruno/pages/login.dart';
-import 'package:diplomski_bruno/services/database.dart';
-import 'package:diplomski_bruno/services/shared_pref.dart';
+import 'package:beautystudioapp/pages/home.dart';
+import 'package:beautystudioapp/pages/login.dart';
+import 'package:beautystudioapp/services/database.dart';
+import 'package:beautystudioapp/services/shared_pref.dart';
 import 'package:firebase_auth/firebase_auth.dart';
 import 'package:flutter/material.dart';
 import 'package:random_string/random_string.dart';
