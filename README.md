@@ -1,4 +1,4 @@
-# Beauty Studio Application ![Project Views](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FBrunosCodeLab%2FBeautyStudio&count_bg=%235C9CFF&title_bg=%23008FC9&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)
+# Beauty Studio Application ![Project Views](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FBrunosCodeLab%2FBeautyStudio-APP&count_bg=%235C9CFF&title_bg=%23008FC9&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)
 
 The **Beauty Studio Application** is a mobile app developed in Flutter, designed to streamline the operations of beauty salons by providing an intuitive platform for customers to book services and for salon owners to manage their appointments efficiently.
 
